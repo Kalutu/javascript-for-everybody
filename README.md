@@ -5,6 +5,7 @@ This is a repository of JavaScript projects for beginners. These projects are de
 The following projects are included in this repository:
 
 - Calculator - a program that performs basic arithmetic operations (addition, subtraction, multiplication, and division) on two numbers
+- Guess the Number - a game where the user tries to guess a randomly generated number
 - To-Do List - a web app that allows users to create a list of tasks to complete
 - Rock, Paper, Scissors - a game where the user plays against the computer in a game of Rock, Paper, Scissors
 - Weather App - a web app that displays the current weather conditions for a given location
