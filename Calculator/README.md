@@ -1,23 +1,27 @@
-# JavaScript Calculator
-This is a simple calculator built with HTML, CSS, and JavaScript. It can perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+# Javascript Calculator
+This is a simple JavaScript program that performs basic arithmetic operations (addition, subtraction, multiplication, and division) on two numbers.
 
-## Installation
-- To run this calculator on your local machine, you can clone this repository.
-- Alternatively, you can download the ZIP file of the repository and extract it to your local machine.
+## How to Use
+- Create a new JavaScript file or open an existing one.
+- Copy and paste the code from calculator.js into your file.
+- Call the desired function(s) in your code, passing in two numbers as arguments.
+- The functions will return the result of the operation.
 
-## Usage
-- Once you have cloned or downloaded the repository, simply open the index.html file in your web browser to access the calculator.
-- To perform an operation, simply click on the corresponding button on the calculator keypad. The result of the operation will be displayed in the result input field.
-- To clear the calculator, simply click on the "C" button.
-
-## Styling
-This calculator has been styled with CSS to give it a more attractive appearance. The calculator is contained within a gray border with rounded corners and a subtle drop shadow.
-The buttons have a white background with a gray border and rounded corners. The button text is black in color and increases in size when the button is hovered over. The result input field has a white background with a gray border and rounded corners.
-
-## Future Improvements
-There are several possible improvements that could be made to this calculator, such as adding support for decimal numbers, adding more advanced mathematical functions, or adding a history of previous calculations. These improvements could be made by modifying the JavaScript code of the calculator.
-
-
-
-
-
+## Examples
+- Addition
+```
+console.log(add(5, 3)); // 8
+```
+- Subtraction
+```
+console.log(subtract(5, 3)); // 2
+```
+- Multiplication
+```
+console.log(multiply(5, 3)); // 15
+```
+- Division
+```
+console.log(divide(5, 3)); // 1.6666666666666667
+console.log(divide(5, 0)); // "Error: Division by zero"
+```
