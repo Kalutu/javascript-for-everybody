@@ -1,7 +1,7 @@
 # Card Counting
 This is a simple JavaScript function that simulates card counting in a card game. It keeps track of the count based on the card values encountered and provides a recommendation of whether to "Bet" or "Hold" based on the current count.
 In the casino game Blackjack, a player can determine whether they have an advantage on the next hand over the house by keeping track of the relative number of high and low cards remaining in the deck.
-Having more high cards remaining in the deck favors the player. Each card is assigned a value according to the table below. When the count is positive, the player should bet high. When the count is zero or negative, the player should bet low.
+Having more high cards remaining in the deck favors the player. Each card is assigned a value according to the card counting system. When the count is positive, the player should bet high. When the count is zero or negative, the player should bet low.
 
 ## Usage
 To use the cc function, follow these steps:
