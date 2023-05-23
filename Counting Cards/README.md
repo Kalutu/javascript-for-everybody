@@ -33,7 +33,7 @@ After updating the count variable, the function checks the value of the count va
 - If the count is greater than 0, it recommends to "Bet".
 - If the count is 0, it recommends to "Hold".
 - If the count is less than 0, it recommends to "Hold".<br>
-- 
+
 Feel free to modify the cc function or the card counting system to suit your needs.
 
 ## Credits
