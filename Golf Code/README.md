@@ -22,15 +22,15 @@ In the example above, the golfScore function is called with par set to 5 and str
 ## Scoring System
 The scoring system used in this function is as follows:
 
-If the golfer completes the hole in a single stroke (strokes == 1), the score is "Hole-in-one!".
-If the golfer completes the hole in par - 2 strokes or fewer, the score is "Eagle".
-If the golfer completes the hole in par - 1 strokes, the score is "Birdie".
-If the golfer completes the hole in exactly par strokes, the score is "Par".
-If the golfer completes the hole in par + 1 strokes, the score is "Bogey".
-If the golfer completes the hole in par + 2 strokes, the score is "Double Bogey".
-If the golfer takes par + 3 strokes or more, the score is "Go Home!".
-Please note that the scoring system and the corresponding strings are defined within the names array.
+- If the golfer completes the hole in a single stroke (strokes == 1), the score is "Hole-in-one!".
+- If the golfer completes the hole in par - 2 strokes or fewer, the score is "Eagle".
+- If the golfer completes the hole in par - 1 strokes, the score is "Birdie".
+- If the golfer completes the hole in exactly par strokes, the score is "Par".
+- If the golfer completes the hole in par + 1 strokes, the score is "Bogey".
+- If the golfer completes the hole in par + 2 strokes, the score is "Double Bogey".
+- If the golfer takes par + 3 strokes or more, the score is "Go Home!".<br>
 
+Please note that the scoring system and the corresponding strings are defined within the names array.
 Feel free to modify the golfScore function or the scoring system to suit your needs.
 
 ## Credits
