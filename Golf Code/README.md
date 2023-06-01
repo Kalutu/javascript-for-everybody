@@ -34,4 +34,4 @@ Please note that the scoring system and the corresponding strings are defined wi
 Feel free to modify the golfScore function or the scoring system to suit your needs.
 
 ## Credits
-This project is based on a challenge from the freeCodeCamp CSS course.
+This project is based on a challenge from the freeCodeCamp JavaScript course.
