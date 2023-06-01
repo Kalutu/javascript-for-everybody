@@ -37,4 +37,4 @@ After updating the count variable, the function checks the value of the count va
 Feel free to modify the cc function or the card counting system to suit your needs.
 
 ## Credits
-This project is based on a challenge from the freeCodeCamp CSS course.
+This project is based on a challenge from the freeCodeCamp JavaScript course.
