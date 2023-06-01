@@ -30,4 +30,4 @@ The updateRecords function performs the following operations based on the condit
 Feel free to modify the updateRecords function or the record collection to suit your needs.
 
 ## Credits
-This project is based on a challenge from the freeCodeCamp CSS course.
+This project is based on a challenge from the freeCodeCamp JavaScript course.
