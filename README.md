@@ -3,9 +3,12 @@ This is a repository of JavaScript projects for beginners. These projects are de
 
 ## Projects
 The following projects are included in this repository:
-
-- Calculator - a program that performs basic arithmetic operations (addition, subtraction, multiplication, and division) on two numbers
-- Guess the Number - a game where the user tries to guess a randomly generated number
+- Caesars Cipher
+- Cash Register
+- Palindrome Checker
+- Roman Numeral Converter
+- Telephone Number Validator
+- And More...
 
 ## Getting Started
 To get started with these projects, follow these steps:
