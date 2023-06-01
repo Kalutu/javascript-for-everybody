@@ -24,4 +24,4 @@ The lookUpProfile function will search for the contact with the specified name i
 Feel free to modify the lookUpProfile function or the contacts array to suit your needs.
 
 ## Credits
-This project is based on a challenge from the freeCodeCamp CSS course.
+This project is based on a challenge from the freeCodeCamp JavaScript course.
