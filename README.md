@@ -7,7 +7,7 @@ The following projects are included in this repository:
 - Cash Register
 - Palindrome Checker - a JavaScript function that checks whether a given string is a palindrome.
 - Roman Numeral Converter -  a JavaScript function that converts a given number to its equivalent representation in Roman numerals.
-- Telephone Number Validator
+- Telephone Number Validator - a JavaScript function that validates whether a given string represents a valid telephone number.
 - And More...
 
 ## Getting Started
