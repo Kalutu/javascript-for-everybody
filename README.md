@@ -3,7 +3,7 @@ This is a repository of JavaScript projects for beginners. These projects are de
 
 ## Projects
 The following projects are included in this repository:
-- Caesars Cipher
+- Caesars Cipher - a JavaScript function that applies the ROT13 cipher to a given string
 - Cash Register
 - Palindrome Checker - a JavaScript function that checks whether a given string is a palindrome.
 - Roman Numeral Converter -  a JavaScript function that converts a given number to its equivalent representation in Roman numerals.
