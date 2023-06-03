@@ -6,7 +6,7 @@ The following projects are included in this repository:
 - Caesars Cipher
 - Cash Register
 - Palindrome Checker - a JavaScript function that checks whether a given string is a palindrome.
-- Roman Numeral Converter
+- Roman Numeral Converter -  a JavaScript function that converts a given number to its equivalent representation in Roman numerals.
 - Telephone Number Validator
 - And More...
 
