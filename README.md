@@ -5,7 +5,7 @@ This is a repository of JavaScript projects for beginners. These projects are de
 The following projects are included in this repository:
 - Caesars Cipher
 - Cash Register
-- Palindrome Checker
+- Palindrome Checker - a JavaScript function that checks whether a given string is a palindrome.
 - Roman Numeral Converter
 - Telephone Number Validator
 - And More...
