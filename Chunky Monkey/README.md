@@ -1,4 +1,4 @@
-# chunkArrayInGroups
+# Chunk Array In Groups
 A JavaScript function that splits an array into groups of a specified size.
 
 ## Usage
