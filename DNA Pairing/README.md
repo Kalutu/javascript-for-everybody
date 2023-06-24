@@ -1,12 +1,6 @@
 # DNA Pairing
 The `pairElement` function is a JavaScript function that takes a string as input and returns an array of arrays representing the DNA base pairs for each character in the input string.
 
-## Usage
-```javascript
-pairElement("GCG");
-```
-The above code will return the base pair arrays for the input string "GCG".
-
 ## Function Description
 The `pairElement` function is a JavaScript function that takes a string as input and returns an array of arrays representing the DNA base pairs for each character in the input string.
 
@@ -35,4 +29,9 @@ The `pairElement` function performs the following steps:
 ```javascript
 const result = pairElement("GCG");
 console.log(result);
+```
+### Output
+```javascript
+[["G", "C"], ["C", "G"], ["G", "C"]]
+
 
