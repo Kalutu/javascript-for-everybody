@@ -13,6 +13,3 @@ function steamrollArray(arr) {
   }
   return flattenedArray;
 };
-
-// test here
-steamrollArray([1, [2], [3, [[4]]]]);
